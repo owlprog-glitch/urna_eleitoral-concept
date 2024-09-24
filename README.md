@@ -1,4 +1,4 @@
-## urnaeleitoral-concept
+## urna_eleitoral-concept
 
 ### Esse código é apenas conceito de como seria uma eleição com um aumento de cadeiras...
 por exemplo:
